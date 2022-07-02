@@ -1,4 +1,4 @@
-Projeto de Glossário com termos de Tecnologia responsivo.
+Projeto de Glossário com termos de Tecnologia.
 -
 Bibliotecas:
 Bootstrap
