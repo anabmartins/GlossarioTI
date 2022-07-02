@@ -5,9 +5,11 @@
 header{
     background-color: #011C43;
 }
-.nav-link{
+nav a{
     color: aliceblue;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
 }
 nav a:hover{
-    color: orange;
+    color: #4b96ff;
 }
